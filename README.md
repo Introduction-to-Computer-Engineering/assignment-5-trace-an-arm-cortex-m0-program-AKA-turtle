@@ -6,8 +6,8 @@
 
 [after line 15 before 16](after15before16.png)
 
-[after line 7 before 8](aftertbefore8.png)
+[after line 7 before 8](after7before8.png)
 
-[after line 26 before 27](after26before27)
+[after line 26 before 27](after26before27.png)
 
-[all three worked out on paper](onPaper.jpg)
+[all three worked out on paper](OnPaper.jpg)
