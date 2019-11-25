@@ -4,4 +4,5 @@
 
 ### 1. submissions
 
--[after line 15 before](after line 15 before 16.png)
+[after line 15 before](after line 15 before 16.png)
+ [micro:bit original-guide](original-guide.js)
